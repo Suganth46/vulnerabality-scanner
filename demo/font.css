@@ -1,0 +1,21 @@
+Hont-face {
+font display: swap;
+font-style: normal;
+src: url("../public/funts/TitilliumWebSemiBold.ttf");
+font-family: "Titillium Web;
+font-weight: 600;
+}
+@font-face {
+font-display: вар;
+font-style: normal;
+tre: url("/public/fonts/litilliumkehoold.ttf");
+font-family: "Titillian Web";
+font-weight:
+}
+@font-face {
+font-display: мар;
+font-style: normal;
+src: url("../public/fonts/PoppinsRegular.ttf");
+font-family: "Poppins";
+font-weight:400;
+}
